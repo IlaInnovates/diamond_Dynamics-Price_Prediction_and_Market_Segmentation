@@ -1,0 +1,1 @@
+A machine learning project that predicts diamond prices and groups diamonds into market segments. Includes data preprocessing, feature engineering, regression models, clustering, and a Streamlit app for real-time predictions. Demonstrates a complete end-to-end ML workflow.
