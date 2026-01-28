@@ -1,5 +1,3 @@
-👇
-
 💎 Diamond Price Prediction & Market Segmentation
 📌 Project Overview
 
